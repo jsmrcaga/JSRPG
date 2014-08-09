@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cal",
+				"calculatePlayerPos"
+			],
+			[
+				"block",
+				"blocksY"
+			],
+			[
+				"X",
+				"x_coordAbsolute"
+			],
+			[
+				"get",
+				"getTasks"
+			],
+			[
+				"Conte",
+				"Content-Type"
+			],
+			[
+				"set",
+				"setRequestHeader"
+			],
+			[
+				"API",
+				"API_USER"
+			],
+			[
+				"X-ap",
+				"x-api-user"
+			],
+			[
+				"x-a",
+				"x-api-key"
+			],
+			[
+				"xml",
+				"XMLHttpRequest"
+			],
+			[
+				"perce",
+				"percentageLikes"
+			],
+			[
+				"left",
+				"left"
+			],
+			[
+				"draw",
+				"drawBar"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"sprite_R",
+				"sprite_RUCorner"
+			],
+			[
+				"init",
+				"initSprite"
+			],
+			[
+				"CAN",
+				"WIDTH_CANVAS"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"in",
+				"innerWidth"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"y",
+				"y_coord"
+			],
+			[
+				"calc",
+				"calcCoord"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"mobile",
+				"mobileMenuTD"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"desk",
+				"deskHoverMenu"
+			],
+			[
+				"legen",
+				"legendAppears"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"exp",
+				"experim"
+			],
+			[
+				"sim",
+				"simuTrace"
+			],
+			[
+				"read",
+				"readTraceBin"
+			],
+			[
+				"setHe",
+				"setHealthLevel"
+			],
+			[
+				"ma",
+				"maxHealth"
+			],
+			[
+				"hit",
+				"hitPoints"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"player",
+				"playerName"
+			],
+			[
+				"pl",
+				"playerName"
+			],
+			[
+				"commands",
+				"commandsUsed"
+			],
+			[
+				"com",
+				"commandsCarousel"
+			],
+			[
+				"what",
+				"what"
+			],
+			[
+				"log",
+				"logCount"
+			],
+			[
+				"login",
+				"loginsT"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"match",
+				"matchReunion"
+			],
+			[
+				"empl",
+				"emploiTemps"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"lan",
+				"langL"
+			],
+			[
+				"sear",
+				"searchYoutube"
+			],
+			[
+				"search",
+				"search"
+			],
+			[
+				"google",
+				"googleImage"
+			],
+			[
+				"searchWiki",
+				"searchWikipedia"
+			],
+			[
+				"comman",
+				"commandsCarousel"
+			],
+			[
+				"go",
+				"goTo"
+			],
+			[
+				"se",
+				"searchPinterest"
+			],
+			[
+				"sea",
+				"searchPinterest"
+			],
+			[
+				"command",
+				"commandBox"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"dict",
+				"dictMots"
+			],
+			[
+				"dico",
+				"dictioGral"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"fu",
+				"fuzzyTable"
+			],
+			[
+				"user",
+				"users-named"
+			],
+			[
+				"js",
+				"jsonDict"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"td",
+				"border-top-width"
+			],
+			[
+				"parse",
+				"parsedResult"
+			],
+			[
+				"url",
+				"urlToBL"
+			],
+			[
+				"par",
+				"parsedResult"
+			],
+			[
+				"bit",
+				"bitLyURL"
+			],
+			[
+				"http",
+				"httpGet"
+			],
+			[
+				"eve",
+				"eventH"
+			],
+			[
+				"obj1",
+				"obj1JS"
+			],
+			[
+				"Someti",
+				"Something"
+			],
+			[
+				"obj",
+				"objAge"
+			],
+			[
+				"o",
+				"objAge"
+			],
+			[
+				"trace",
+				"trace"
+			],
+			[
+				"prin",
+				"printTrace"
+			],
+			[
+				"Time",
+				"setTimeout"
+			],
+			[
+				"nom",
+				"nomDePersonne"
+			],
+			[
+				"pren",
+				"prenomDePersonne"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"min-",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"ss c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ss none",
+				"Set Syntax: R Console"
+			],
+			[
+				"ss c",
+				"Set Syntax: C"
+			],
+			[
+				"ss json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			],
+			[
+				"ss jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss c+",
+				"Set Syntax: C++"
+			],
+			[
+				"ss tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"snippet",
+				"Snippet: Function"
+			],
+			[
+				"snipp",
+				"Snippet: Get Elements"
+			],
+			[
+				"ss jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snipper",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"syn c",
+				"Set Syntax: C"
+			],
+			[
+				"s c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ss pho",
+				"Set Syntax: Python"
+			],
+			[
+				"s html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"s css",
+				"Set Syntax: CSS"
+			],
+			[
+				"s htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"s js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"syntax jsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sytax html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/Game Dev/JSRPG/Alpha/scripts/simple.js",
+		"/G/Game Dev/JSRPG/Alpha/scripts/rooms.js",
+		"/G/Game Dev/JSRPG/Alpha/scripts/mechanics.js",
+		"/G/Game Dev/JSRPG/Alpha/scripts/sprites.js",
+		"/G/Game Dev/JSRPG/Alpha/scripts/objects.js",
+		"/G/Game Dev/JSRPG/Alpha/scripts/game.js",
+		"/G/Game Dev/JSRPG/Alpha/scripts/enemys.js",
+		"/G/Game Dev/JSRPG/README.md",
+		"/C/Users/Jo Colina/Documents/GitHub/Dungeon Generation/dungeongeneration/README.md",
+		"/C/Users/Jo Colina/Desktop/index.html",
+		"/C/Users/Jo Colina/Desktop/userdata.json",
+		"//nasetu.utc/~colinajo/public_html/UTHub/script.js",
+		"/C/Users/Jo Colina/Documents/GitHub/YouTube Game Tuts/youtube-tutorials/flappy/sprite.js",
+		"/G/Game Dev/JSRPG/Alpha/index.html",
+		"/C/Users/Jo Colina/Documents/GitHub/YouTube Game Tuts/youtube-tutorials/pong/index.html",
+		"/C/Users/Jo Colina/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/README.rst",
+		"/C/Users/Jo Colina/Documents/GitHub/Dungeon Generation/dungeongeneration/lib/core/game.js",
+		"/C/Users/Jo Colina/Documents/GitHub/Dungeon Generation/dungeongeneration/lib/init.js",
+		"/C/Users/Jo Colina/Documents/GitHub/Dungeon Generation/dungeongeneration/lib/gameobjects/components/health.js",
+		"/C/Users/Jo Colina/Documents/GitHub/Dungeon Generation/dungeongeneration/lib/factories/playerfactory.js",
+		"/C/Users/Jo Colina/Documents/GitHub/Dungeon Generation/dungeongeneration/lib/tilemap/mapfactory.js",
+		"/C/Users/Jo Colina/Documents/GitHub/Dungeon Generation/dungeongeneration/dist/dungeongeneration.js",
+		"/C/Users/Jo Colina/Documents/GitHub/Dungeon Generation/dungeongeneration/index.html",
+		"/G/Sites/BlackJack counter/index.html",
+		"/G/Sites/BlackJack counter/deck.js",
+		"//nasetu.utc/~colinajo/public_html/Resume/script.js",
+		"//nasetu.utc/~colinajo/public_html/Resume/resumeStyle.css",
+		"//nasetu.utc/~colinajo/public_html/Resume/index.php",
+		"/G/Sites/redditUnhide.js",
+		"/G/Game Dev/JSRPG/Alpha/general.js",
+		"/C/Users/Jo Colina/Desktop/gChart.html",
+		"/C/Users/Jo Colina/Desktop/pieChart google.html",
+		"/G/Sites/Resume/index.php",
+		"/C/Users/Jo Colina/Documents/Arduino/libraries/AX12/ax12.cpp",
+		"/C/Users/Jo Colina/Documents/Arduino/libraries/AX12/ax12.h",
+		"/C/Users/Jo Colina/Documents/Arduino/libraries/DynamixelAX12/DynamixelSerial.h",
+		"/C/Users/Jo Colina/Documents/Arduino/libraries/DynamixelAX12/DynamixelSerial.cpp",
+		"/C/Users/Jo Colina/Documents/Arduino/libraries/AX12OLD/ax12OLD.cpp",
+		"/G/arduino-1.0.5/lib/theme/theme.txt",
+		"/C/Users/Jo Colina/AppData/Local/Temp/wz228b/ax12/ax12.cpp",
+		"/G/arduino-1.0.5/hardware/arduino/cores/robot/wiring.c",
+		"/G/Game Dev/JSRPG/Alpha/scripts/jquery.js",
+		"/G/Game Dev/JSRPG/Alpha/mechanics.js",
+		"/G/Game Dev/JSRPG/Alpha/game.js",
+		"/G/Game Dev/JSRPG/Alpha/simple.js",
+		"/G/Game Dev/JSRPG/Alpha/rooms.js",
+		"/G/Game Dev/JSRPG/Alpha/objects.js",
+		"/G/Game Dev/JSRPG/Alpha/enemys.js",
+		"/G/Game Dev/JSRPG/Alpha/style.css",
+		"//nasetu.utc/~colinajo/public_html/photo/script.js",
+		"//nasetu.utc/~colinajo/public_html/UTHub/index.php",
+		"/C/Users/Jo Colina/Desktop/main.c",
+		"/C/Users/Jo Colina/Documents/Visual Studio 2010/Projects/tp06/tp06/theo1.txt",
+		"/C/Users/Jo Colina/Documents/Visual Studio 2010/Projects/tp06/tp06/theo1.bin",
+		"/C/Users/Jo Colina/Documents/Visual Studio 2010/Projects/tp06/tp06/theo.bin",
+		"/C/Users/Jo Colina/Desktop/tp6 q3.cpp",
+		"/C/Users/Jo Colina/Desktop/tp6 q1-2.cpp",
+		"/C/Program Files (x86)/Sublime Text 2/Pristine Packages/JavaScript.sublime-package",
+		"/C/Users/Jo Colina/Desktop/snake.html",
+		"//nasetu.utc/~colinajo/public_html/UTHub/entStyle.css",
+		"/C/Users/Jo Colina/Desktop/plep1.js",
+		"//nasetu.utc/~colinajo/public_html/UTHub/loginUTC.js",
+		"//nasetu.utc/~colinajo/public_html/UTHub/jquery-ui/index.html",
+		"//nasetu.utc/~colinajo/public_html/UTHub/jquery-ui/js/jquery-ui-1.10.4.custom.js",
+		"//nasetu.utc/~colinajo/public_html/index.html",
+		"//nasetu.utc/~colinajo/public_html/redirEnt.html",
+		"/C/Users/Jo Colina/Desktop/script.js",
+		"//nasetu.utc/~colinajo/public_html/UTHub/pages/styleMatch.css",
+		"//nasetu.utc/~colinajo/public_html/UTHub/pages/match.php",
+		"//nasetu.utc/~colinajo/public_html/UTHub/shortcut.js",
+		"/C/Users/Jo Colina/Desktop/shortcut.js",
+		"//nasetu.utc/~colinajo/public_html/UTHub/pages/help.html",
+		"//nasetu.utc/~colinajo/public_html/UTHub/pages/styleAbout.css",
+		"//nasetu.utc/~colinajo/public_html/UTHub/pages/about.php",
+		"/G/Sites/ENT/ent/shortcut.js",
+		"/G/Sites/ENT/ent/jquery.js",
+		"/G/Sites/ENT/ent/index.php",
+		"/G/Sites/ENT/ent/entStyle.css",
+		"/G/Sites/ENT/ent/dico.json",
+		"/G/Sites/ENT/ent/script.js",
+		"/C/Users/Jo Colina/Desktop/aihsf.js",
+		"/C/Users/Jo Colina/Desktop/sdfasdf.txt",
+		"/C/Users/Jo Colina/Desktop/test.css",
+		"//nasetu.utc/~colinajo/public_html/UTHub/README.md",
+		"//nasetu.utc/~colinajo/public_html/entV2/pages/styleAbout.css",
+		"//nasetu.utc/~colinajo/public_html/entV2/pages/about.php",
+		"//nasetu.utc/~colinajo/public_html/entV2/script.js",
+		"//nasetu.utc/~colinajo/public_html/entV2/entStyle.css",
+		"//nasetu.utc/~colinajo/public_html/entV2/index.php",
+		"//nasetu.utc/~colinajo/public_html/UTHub/README",
+		"//nasetu.utc/~colinajo/public_html/entV2/pages/styleProfile.css",
+		"//nasetu.utc/~colinajo/public_html/entV2/loginUTC.js",
+		"/G/Sites/UTHub/README",
+		"/G/Sites/UTHub/.git/description",
+		"/G/Sites/Jo Photo/script.js",
+		"/G/Sites/JavaScript httpGET/script.js",
+		"//nasetu.utc/~colinajo/public_html/entV2/dico.json",
+		"/G/Sites/ENT/ent/index.html",
+		"/G/Sites/ENT/ent/dico.xml",
+		"//nasetu.utc/~colinajo/public_html/C++/dictionnaire.json",
+		"/G/Sites/ENT/ent/dictionnaire.json",
+		"/G/Sites/ENT/ent/dictionnaire.jsonp",
+		"/G/Sites/ENT/ent/dictionnaire.jsonp.json",
+		"/G/Sites/ENT/ent/mail.php",
+		"/G/Sites/ENT/ent/comm.css",
+		"/G/Sites/JavaScript httpGET/style.css",
+		"/G/Sites/JavaScript httpGET/index.html",
+		"/C/Users/Jo Colina/Desktop/musicBox.txt",
+		"/C/Users/Jo Colina/Desktop/proxy-utc.pac",
+		"/C/Users/Jo Colina/Documents/GitHub/HallOfFame/app/views/profile.html",
+		"/C/Users/Jo Colina/Documents/GitHub/HallOfFame/app/styles/profileStyle.css",
+		"/C/Users/Jo Colina/Documents/GitHub/HallOfFame/app/scripts/controllers/profile.js",
+		"/C/Users/Jo Colina/Documents/GitHub/HallOfFame/app/views/profil.html",
+		"/C/Users/Jo Colina/Documents/GitHub/HallOfFame/app/scripts/controllers/main.js",
+		"/C/Users/Jo Colina/Documents/GitHub/HallOfFame/app/scripts/app.js",
+		"/C/Users/Jo Colina/Documents/GitHub/HallOfFame/Gruntfile.js",
+		"/C/Users/Jo Colina/Documents/GitHub/HallOfFame/.bowerrc",
+		"/G/objectsJSPHP.php",
+		"/C/Users/Jo Colina/Desktop/test.js",
+		"/C/Users/Jo Colina/Desktop/plep.js",
+		"/C/Users/Jo Colina/Desktop/style.css",
+		"/C/Users/Jo Colina/Desktop/nom.php",
+		"/G/Sites/test/index.html",
+		"/G/Sites/test/style.css",
+		"/G/Sites/comet/style.css",
+		"/C/Users/Jo Colina/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"current",
+			"99j",
+			"99i",
+			".",
+			"1",
+			"50",
+			"7",
+			":",
+			"ctx",
+			",",
+			":",
+			"frames",
+			"width",
+			"_",
+			"card",
+			"t",
+			"h",
+			"heart",
+			"style-eight",
+			"white ",
+			"edu",
+			"phone",
+			"searchMap",
+			"writeByte",
+			"sendPa",
+			"alarm_led",
+			"temp",
+			"Column",
+			"searchGoo",
+			"une",
+			";",
+			"this.",
+			"y",
+			"utc",
+			"ent",
+			"autocom",
+			"plep",
+			"newC",
+			"wolframAlphaSearch",
+			"wolframalpha",
+			"Moi",
+			"alert",
+			"match",
+			"matchReunion",
+			"goto",
+			"searchMa",
+			"outline",
+			"99",
+			"es",
+			"langl",
+			"commandBack",
+			"searchyou",
+			".alCenter",
+			"newC",
+			"arrowD",
+			"searchPinterest",
+			"nPa",
+			"]",
+			"https://webmail.utc.fr",
+			"someText",
+			"commandBox",
+			"'",
+			"\"",
+			"600",
+			"700",
+			"serve",
+			"obj1",
+			"foo",
+			"what",
+			"tmax",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"j99",
+			"i99"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"README.md"
+			],
+			[
+				"sc",
+				"script.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"st",
+				"style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true
+}
